@@ -1,0 +1,3 @@
+{
+  "extends": "@turboq/sdk/dist/tsconfig.json"
+}
