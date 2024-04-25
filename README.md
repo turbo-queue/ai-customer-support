@@ -17,7 +17,12 @@ yarn install
 pnpm install
 ```
 
-## Development
+Add your api keys to `.env`.
+
+```sh
+OPENAI_API_KEY=my-api-key
+RESEND_API_KEY=my-api-key
+```
 
 Start the development server:
 
