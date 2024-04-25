@@ -1,4 +1,4 @@
-# TurboQ Minimal Starter
+# 🤖 Customer Support AI Template
 
 Look at the [TurboQ documentation](https://docs.turboq.dev/) to learn more.
 
@@ -9,20 +9,11 @@ Make sure to install the dependencies:
 ```bash
 # npm
 npm install
-
-# yarn
-yarn install
-
-# pnpm
-pnpm install
 ```
 
-Add your api keys to `.env`.
-
-```sh
-OPENAI_API_KEY=my-api-key
-RESEND_API_KEY=my-api-key
-```
+Generate API keys and add it to your `.env`:
+[`OpenAI` for chat](https://platform.openai.com/api-keys)
+[`Resend` for emails](https://resend.com/api-keys)
 
 Start the development server:
 
